@@ -18,6 +18,8 @@ The Problem statement for this project is explained in the `doc/ProblemStatement
 * Identifies the combination of Input and Output where the system is Observable
 * Obtains the Luenberger Observer and SImulates the responses for both Linearized system and Original Non-Linear system
 
+Note: Some of the results are not good. This project needs more improvement
+
 ## Dependencies
 
 * Matlab 2018a and above
@@ -29,8 +31,6 @@ The Problem statement for this project is explained in the `doc/ProblemStatement
 
 ## Results
 The mathematical derivations and outputs are explained in the report `doc/Report.pdf` 
-
-Note: Some of the results are not good. This project needs more improvement
 
 ## See how it works
 
