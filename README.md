@@ -30,7 +30,7 @@ The Problem statement for this project is explained in the `doc/ProblemStatement
 ## Results
 The mathematical derivations and outputs are explained in the report `doc/Report.pdf` 
 
-Note: Some of the results are not correct. This project needs more improvement
+Note: Some of the results are not good. This project needs more improvement
 
 ## See how it works
 
