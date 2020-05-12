@@ -2,7 +2,7 @@
 The Problem statement for this project is explained in the `doc/ProblemStatement.pdf`
 
 <p align="center">
-<img src="images/InvertedPendulum.JPG" alt="InvPen">
+<img src="images/InvertedPendulum.JPG" alt="InvPen" width="360">
 </p>
 <p align="center">
 <em>Inverted Pendulum Model</em>
